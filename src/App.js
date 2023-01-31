@@ -6,7 +6,9 @@ function App() {
   return (
     <div className="App">
      
-      <Serialdata/>
+      <Serialdata/>afafeagit 
+      adfah 
+      adfhadfhaf ' adfaha'
     </div>
   );
 }
